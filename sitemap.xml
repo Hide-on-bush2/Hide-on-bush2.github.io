@@ -3,26 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://Hide-on-bush2.github.io/post/first_post/</loc>
-    <lastmod>2020-09-09T08:21:42+08:00</lastmod>
+    <loc>https://example.com/</loc>
+    <lastmod>2020-09-09T10:57:27+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://Hide-on-bush2.github.io/</loc>
-    <lastmod>2020-09-09T08:21:42+08:00</lastmod>
+    <loc>https://example.com/post/markdown/</loc>
+    <lastmod>2020-09-09T10:57:27+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://Hide-on-bush2.github.io/post/</loc>
-    <lastmod>2020-09-09T08:21:42+08:00</lastmod>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2020-09-09T10:57:27+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://Hide-on-bush2.github.io/categories/</loc>
+    <loc>https://example.com/post/blog/</loc>
+    <lastmod>2020-09-09T10:57:06+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://Hide-on-bush2.github.io/tags/</loc>
+    <loc>https://example.com/post/homework/</loc>
+    <lastmod>2020-09-09T10:56:59+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>
