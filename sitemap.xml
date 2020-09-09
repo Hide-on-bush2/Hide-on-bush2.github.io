@@ -4,7 +4,36 @@
   
   <url>
     <loc>http://Hide-on-bush2.github.io/</loc>
+    <lastmod>2020-09-09T10:57:27+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://Hide-on-bush2.github.io/post/markdown/</loc>
+    <lastmod>2020-09-09T10:57:27+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://Hide-on-bush2.github.io/post/</loc>
+    <lastmod>2020-09-09T10:57:27+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://Hide-on-bush2.github.io/post/blog/</loc>
+    <lastmod>2020-09-09T10:57:06+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://Hide-on-bush2.github.io/post/homework/</loc>
+    <lastmod>2020-09-09T10:56:59+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
